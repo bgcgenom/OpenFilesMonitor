@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# VS/VSCode
+.vs/
+.vscode/
+
+# User settings / secrets
+**/servers.json
+crash.log
+
+# OS
+Thumbs.db
+.DS_Store
