@@ -1,4 +1,5 @@
 # OpenFilesMonitor (v1.2 Recreated)
+Licensed under GPL 3.0.  See LICENSE.
 
 WPF tool to list SMB open files on Windows file servers and optionally close handles.
 
