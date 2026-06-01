@@ -15,8 +15,6 @@ Windows file servers often accumulate locked files from disconnected users, cras
 - Protect stored passwords using Windows DPAPI CurrentUser encryption
 - Built with C# / WPF / .NET 8 for Windows
 
-## Screenshots
-
 ## Download
 
 Download the latest release from the Releases page.
